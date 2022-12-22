@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Abinaya",
+      "email": "abihasini18@gmail.com",
+      "salary": "f50000"
+    },
+    {
+      "id": 2,
+      "name": "Raji",
+      "email": "rajidhanu@gmail.com",
+      "salary": "50000"
+    },
+    {
+      "id": 3,
+      "name": "Shanmu",
+      "email": "shanmuramesh@gmail.com",
+      "salary": "50000"
+    },
+    {
+      "id": 4,
+      "name": "Vaishu",
+      "email": "vaishnavi@gmail.com",
+      "salary": "50000"
+    },
+    {
+      "id": 5,
+      "name": "sandhya",
+      "email": "sandy@gmail.com",
+      "salary": "50000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
